@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.14](https://github.com/c5vargas/vue3-scalable-kit/compare/v0.0.13...v0.0.14) (2025-07-22)
+
+
+### Features
+
+* update default app title to reflect project name ([2b03525](https://github.com/c5vargas/vue3-scalable-kit/commit/2b035257f9cf91096ac08976d6dad0651e0ce70d))
+
 ### [0.0.13](https://github.com/c5vargas/vue3-scalable-kit/compare/v0.0.12...v0.0.13) (2025-07-22)
 
 
