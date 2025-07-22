@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.9](https://github.com/c5vargas/vue3-scalable-kit/compare/v0.0.8...v0.0.9) (2025-07-22)
+
+
+### Features
+
+* add tailwindcss integration and styling ([55f1dbd](https://github.com/c5vargas/vue3-scalable-kit/commit/55f1dbdee22d87441a4c28ec8c1efd57dc6b194b))
+
 ### [0.0.8](https://github.com/c5vargas/vue3-scalable-kit/compare/v0.0.7...v0.0.8) (2025-07-22)
 
 ### [0.0.7](https://github.com/c5vargas/vue3-scalable-kit/compare/v0.0.6...v0.0.7) (2025-07-22)
