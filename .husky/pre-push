@@ -1,1 +1,1 @@
-npm run release
+npx standard-version
