@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.13](https://github.com/c5vargas/vue3-scalable-kit/compare/v0.0.12...v0.0.13) (2025-07-22)
+
+
+### Features
+
+* add vitest for unit testing and github workflows ([29ac4b2](https://github.com/c5vargas/vue3-scalable-kit/commit/29ac4b2aaaabeceacddf05d173a3bfdf43ecc0ec))
+
 ### [0.0.12](https://github.com/c5vargas/vue3-scalable-kit/compare/v0.0.11...v0.0.12) (2025-07-22)
 
 ### Features

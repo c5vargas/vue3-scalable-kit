@@ -1,7 +1,7 @@
 {
   "name": "vue3-scalable-kit",
   "private": true,
-  "version": "0.0.12",
+  "version": "0.0.13",
   "type": "module",
   "lint-staged": {
     "src/**/*.{ts,js,vue,html,css}": "prettier --write",
