@@ -1,7 +1,13 @@
 {
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ]
+  "compilerOptions": {
+    "baseUrl": ".",
+    "lib": ["esnext", "dom"],
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "sourceMap": true
+  },
+  "extends": "@vue/tsconfig/tsconfig.json",
+  "include": ["vite.config.*", "src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"],
+  "exclude": ["node_modules"]
 }
