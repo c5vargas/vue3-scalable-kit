@@ -1,4 +1,11 @@
 # 📦 Changelog
+### [0.0.19](https://github.com/c5vargas/vue3-scalable-kit/compare/v0.0.18...v0.0.19) (2025-07-31)
+
+
+### 🔧 Chores
+
+* update dependencies and devDependencies in package.json ([8d98a17](https://github.com/c5vargas/vue3-scalable-kit/commit/8d98a1799b2de7c395c99920e4596f16fd5bbca2))
+
 ### [0.0.18](https://github.com/c5vargas/vue3-scalable-kit/compare/v0.0.17...v0.0.18) (2025-07-31)
 
 
