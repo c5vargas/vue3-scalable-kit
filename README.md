@@ -1,5 +1,23 @@
-# Vue 3 + TypeScript + Vite
+# Vue 3 Scalable Kit
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A Vue 3 boilerplate designed for scalability, team collaboration, and AI-assisted development. Includes changelog automation, opinionated architecture, and strict conventions for enterprise-level projects.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Key Features
+- Vite + TypeScript setup
+- Pinia + Vue Query + Axios integration
+- File-based modular architecture
+- Auto-generated changelog via `standard-version`
+- AI collaboration context inside `/docs`
+
+## Getting Started
+```bash
+pnpm install
+pnpm dev
+```
+
+## Versioning
+Managed via [`standard-version`](https://github.com/conventional-changelog/standard-version).
+Do not manually modify `CHANGELOG.md`.
+
+## Documentation
+All project conventions and IA context are under `docs/`.
