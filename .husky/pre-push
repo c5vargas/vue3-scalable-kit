@@ -1,1 +1,1 @@
-npx standard-version
+npx standard-version --infile docs/changelog.md
